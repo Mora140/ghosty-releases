@@ -1,7 +1,7 @@
 {
-  "version": "1.0.4",
-  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.0.4/GhostlyMobile-1.0.4.ipa",
-  "sha256": "2aeec389cdf018f8594e48d1888ae527fdf05ba03641b192ba7f3a49ed18d4eb",
-  "size": 26823604,
-  "release_notes": "Text no longer truncates in status warnings, signing requirements and the map hint - explanations wrap instead of ending in an ellipsis."
+  "version": "1.0.5",
+  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.0.5/GhostlyMobile-1.0.5.ipa",
+  "sha256": "edeae457c6704f0a15f02b47b3e85c652bc57131b11a4841b9934565c6f2c81d",
+  "size": 26859171,
+  "release_notes": "The update offer now shows which requirement is missing and can open LocalDevVPN directly. An update blocked by a missing requirement is no longer treated as a failure, and can always be retried."
 }
