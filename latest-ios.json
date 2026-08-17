@@ -1,7 +1,7 @@
 {
-  "version": "1.0.5",
-  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.0.5/GhostlyMobile-1.0.5.ipa",
-  "sha256": "edeae457c6704f0a15f02b47b3e85c652bc57131b11a4841b9934565c6f2c81d",
-  "size": 26859171,
-  "release_notes": "The update offer now shows which requirement is missing and can open LocalDevVPN directly. An update blocked by a missing requirement is no longer treated as a failure, and can always be retried."
+  "version": "1.0.6",
+  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.0.6/GhostlyMobile-1.0.6.ipa",
+  "sha256": "8efb970388e06af9ced060df67f4229bfbe440d2c5d22934b3f24592c4a2d186",
+  "size": 26859014,
+  "release_notes": "Renew Ghostly from the phone without a computer, and let it update itself. Routes sync from the desktop and can be created on the phone. LocalDevVPN opens directly, and a notification warns two days before the signing expires."
 }
