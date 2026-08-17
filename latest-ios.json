@@ -1,0 +1,7 @@
+{
+  "version": "1.0.4",
+  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.0.4/GhostlyMobile-1.0.4.ipa",
+  "sha256": "2aeec389cdf018f8594e48d1888ae527fdf05ba03641b192ba7f3a49ed18d4eb",
+  "size": 26823604,
+  "release_notes": "Text no longer truncates in status warnings, signing requirements and the map hint - explanations wrap instead of ending in an ellipsis."
+}
