@@ -1,7 +1,7 @@
 {
-  "version": "1.0.6",
-  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.0.6/GhostlyMobile-1.0.6.ipa",
-  "sha256": "8efb970388e06af9ced060df67f4229bfbe440d2c5d22934b3f24592c4a2d186",
-  "size": 26859014,
-  "release_notes": "Renew Ghostly from the phone without a computer, and let it update itself. Routes sync from the desktop and can be created on the phone. LocalDevVPN opens directly, and a notification warns two days before the signing expires."
+  "version": "1.0.7",
+  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.0.7/GhostlyMobile-1.0.7.ipa",
+  "sha256": "1cba32194be2ec9bad2f29b40e1b4f9190a766323bd29023d73db6c8e59c93c6",
+  "size": 26889588,
+  "release_notes": "Spoofing keeps running when cellular comes back, and moving the pin no longer repeats the cellular steps. Signing now uses the Apple team from the account you sign in with."
 }
