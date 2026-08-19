@@ -1,7 +1,7 @@
 {
-  "version": "1.1.0",
-  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.1.0/GhostlyMobile-1.1.0.ipa",
-  "sha256": "a436403866850b5adbb08e93ee679a3339809cde87901f4098d9b60c58bd9a89",
-  "size": 27038895,
-  "release_notes": "Build a route by picking a start and a destination and Ghostly works out the roads between them. Routes you tap out can now follow roads instead of cutting through buildings. Save favourite places and name them. Move at any speed up to 500 km/h, with Walk, Run, Cycle, Drive, Highway and Flying presets. Routes can play once, loop, or run back and forth. With the joystick selected, tapping the map walks you there. Ghostly no longer blames cellular when LocalDevVPN simply is not running, and offers to open it instead. Settings now links to the Ghostly Discord."
+  "version": "1.1.1",
+  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.1.1/GhostlyMobile-1.1.1.ipa",
+  "sha256": "b04bc0fd125b9d7914e256a34ffe447e56622d9a8a5bfd87c3384426b7a4de4a",
+  "size": 27059793,
+  "release_notes": "Choose how the map looks: Light, Dark or Satellite, from the layers button at the top right. Dark stays the default, so nothing changes unless you pick something else. Satellite shows real imagery, which makes it far easier to pick an exact spot such as a building or a field. Hints that sit on the map stay readable on the lighter views."
 }
