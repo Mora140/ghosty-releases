@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "apk_url": "https://github.com/Mora140/ghosty-releases/releases/download/android-v1.0.0/Ghostly.apk",
-  "sha256": "782ea23b106a4d6531b5a8da0128a356d763f686b4161c70a7f660c339d153ee",
-  "size": 45424574,
-  "release_notes": "Ghostly Mobile for Android. Set your phone's location from the phone itself: search or tap a place, play routes that follow real roads, or steer with the joystick."
+  "version": "1.0.1",
+  "apk_url": "https://github.com/Mora140/ghosty-releases/releases/download/android-v1.0.1/Ghostly.apk",
+  "sha256": "d1d56de57fafd084c671fff34209c19e3d42f407b27e7182ea7b3908ce752e44",
+  "size": 45424590,
+  "release_notes": "Fixes Ghostly not appearing under Developer options → Select mock location app. If that list showed only \"None\", install this update, open Ghostly once, then pick it in the list."
 }
