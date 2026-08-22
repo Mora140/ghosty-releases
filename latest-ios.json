@@ -1,7 +1,7 @@
 {
-  "version": "1.1.1",
-  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.1.1/GhostlyMobile-1.1.1.ipa",
-  "sha256": "b04bc0fd125b9d7914e256a34ffe447e56622d9a8a5bfd87c3384426b7a4de4a",
-  "size": 27059793,
-  "release_notes": "Choose how the map looks: Light, Dark or Satellite, from the layers button at the top right. Dark stays the default, so nothing changes unless you pick something else. Satellite shows real imagery, which makes it far easier to pick an exact spot such as a building or a field. Hints that sit on the map stay readable on the lighter views."
+  "version": "1.1.2",
+  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.1.2/GhostlyMobile-1.1.2.ipa",
+  "sha256": "90af69e8372a355edf1a08faa1cf8beb8921aecd31c978bdc7e4dad79a5d49d3",
+  "size": 27283160,
+  "release_notes": "Free spoofing now refreshes to 20 minutes every 24 hours and counts only during an active session. Ghostly Pro can schedule timed teleport or drive stops in the background. The schedule editor is more compact and consistent, and iPhone signing and renewal handle anisette more reliably."
 }
