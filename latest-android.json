@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "apk_url": "https://github.com/Mora140/ghosty-releases/releases/download/android-v1.0.1/Ghostly.apk",
-  "sha256": "d1d56de57fafd084c671fff34209c19e3d42f407b27e7182ea7b3908ce752e44",
-  "size": 45424590,
-  "release_notes": "Fixes Ghostly not appearing under Developer options → Select mock location app. If that list showed only \"None\", install this update, open Ghostly once, then pick it in the list."
+  "version": "1.0.2",
+  "apk_url": "https://github.com/Mora140/ghosty-releases/releases/download/android-v1.0.2/Ghostly.apk",
+  "sha256": "04e4ceb874857911d3b2a32917dfb699e8bd892a5878361fb233994345f02c7b",
+  "size": 45491062,
+  "release_notes": "Free spoofing now refreshes to 20 minutes every 24 hours and counts only during an active session. Ghostly Pro can schedule timed teleport or drive stops in the background, and a floating joystick keeps movement controls available over other apps."
 }
