@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
-  "apk_url": "https://github.com/Mora140/ghosty-releases/releases/download/android-v1.0.3/Ghostly.apk",
-  "sha256": "5ac92b947cd9bf2136f21eefc39b418663f39a65f51121991999150949b0aa06",
-  "size": 45491082,
-  "release_notes": "Ghostly is selectable again under Settings > Developer options > Select mock location app. A previous build shipped without the declaration Android uses to build that list, so Ghostly stopped appearing there. Nothing needs reinstalling - update and pick Ghostly again."
+  "version": "1.0.4",
+  "apk_url": "https://github.com/Mora140/ghosty-releases/releases/download/android-v1.0.4/Ghostly.apk",
+  "sha256": "6e58046091b4fa66b6d2b0447a1f042edf44f9bc5cb76d6f2ab0ea905451eedd",
+  "size": 45507466,
+  "release_notes": "Ghostly Free works again. The app could never finish checking your free time, so free spoofing was impossible on every Android device - that is fixed. Opening Diagnostics no longer closes Ghostly, reports can now be sent from that screen, and they include why a check failed."
 }
