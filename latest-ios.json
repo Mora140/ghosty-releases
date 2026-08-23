@@ -1,7 +1,7 @@
 {
-  "version": "1.1.2",
-  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.1.2/GhostlyMobile-1.1.2.ipa",
-  "sha256": "90af69e8372a355edf1a08faa1cf8beb8921aecd31c978bdc7e4dad79a5d49d3",
-  "size": 27283160,
-  "release_notes": "Free spoofing now refreshes to 20 minutes every 24 hours and counts only during an active session. Ghostly Pro can schedule timed teleport or drive stops in the background. The schedule editor is more compact and consistent, and iPhone signing and renewal handle anisette more reliably."
+  "version": "1.1.3",
+  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.1.3/GhostlyMobile-1.1.3.ipa",
+  "sha256": "93286e74eddc617f660492e4a535a057049b3fab80171c192079ec8c87186f90",
+  "size": 27292614,
+  "release_notes": "Error messages now explain what went wrong in plain language instead of showing internal technical details. If Ghostly cannot connect to your iPhone, it now reports which part of the connection failed, so problems sent to support can be identified much faster."
 }
