@@ -1,7 +1,7 @@
 {
-  "version": "1.1.4",
-  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.1.4/GhostlyMobile-1.1.4.ipa",
-  "sha256": "437acdb29d6ee66c9841a673f8b41bf097a0439bc6b9293ec76625ede6c015b4",
-  "size": 27297334,
-  "release_notes": "Free spoofing on iPhone works. It never did before - Ghostly could not finish checking your free time, so the free tier was impossible to use. If you set up your iPhone before this update, run Introduce Ghostly once more to re-pair it before free time will work. Problem reports now also explain why a free-time check failed."
+  "version": "1.1.5",
+  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.1.5/GhostlyMobile-1.1.5.ipa",
+  "sha256": "bf119e75d00e4461021d8f984ac9ffc2b8d68c8b974f876e668cf1ce0720c23a",
+  "size": 27302313,
+  "release_notes": "Free time is now spent only while Ghostly is actually moving your location. Opening the app, looking at the map, or moving the pin before you start no longer uses any of it. Time already spent that way cannot be given back, but the daily twenty minutes now lasts as long as it should."
 }
