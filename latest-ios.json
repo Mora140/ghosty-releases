@@ -1,7 +1,7 @@
 {
-  "version": "1.1.5",
-  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.1.5/GhostlyMobile-1.1.5.ipa",
-  "sha256": "bf119e75d00e4461021d8f984ac9ffc2b8d68c8b974f876e668cf1ce0720c23a",
-  "size": 27302313,
-  "release_notes": "Free time is now spent only while Ghostly is actually moving your location. Opening the app, looking at the map, or moving the pin before you start no longer uses any of it. Time already spent that way cannot be given back, but the daily twenty minutes now lasts as long as it should."
+  "version": "1.1.6",
+  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.1.6/GhostlyMobile-1.1.6.ipa",
+  "sha256": "8feb37f9e643a115ed922b9455996e336cdb7ff3fd88c4a15ac0f3ed9e4496c1",
+  "size": 27302227,
+  "release_notes": "Fixes a problem introduced in 1.1.5: Ghostly could wrongly say it was still checking your free time even when free time was available, most often just after finishing setup. Spoofing starts normally again."
 }
