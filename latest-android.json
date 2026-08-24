@@ -1,7 +1,7 @@
 {
-  "version": "1.0.4",
-  "apk_url": "https://github.com/Mora140/ghosty-releases/releases/download/android-v1.0.4/Ghostly.apk",
-  "sha256": "6e58046091b4fa66b6d2b0447a1f042edf44f9bc5cb76d6f2ab0ea905451eedd",
-  "size": 45507466,
-  "release_notes": "Ghostly Free works again. The app could never finish checking your free time, so free spoofing was impossible on every Android device - that is fixed. Opening Diagnostics no longer closes Ghostly, reports can now be sent from that screen, and they include why a check failed."
+  "version": "1.0.5",
+  "apk_url": "https://github.com/Mora140/ghosty-releases/releases/download/android-v1.0.5/Ghostly.apk",
+  "sha256": "ebfdbc34e132c545dd8d10be45b5f35b79ff7fda14844f18b1e55475f77c5538",
+  "size": 45507462,
+  "release_notes": "Free time is now spent only while Ghostly is actually moving your location. Opening the app, looking at the map, or moving the pin before you start no longer uses any of it. Time already spent that way cannot be given back, but the daily twenty minutes now lasts as long as it should."
 }
