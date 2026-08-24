@@ -1,7 +1,7 @@
 {
-  "version": "1.1.3",
-  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.1.3/GhostlyMobile-1.1.3.ipa",
-  "sha256": "93286e74eddc617f660492e4a535a057049b3fab80171c192079ec8c87186f90",
-  "size": 27292614,
-  "release_notes": "Error messages now explain what went wrong in plain language instead of showing internal technical details. If Ghostly cannot connect to your iPhone, it now reports which part of the connection failed, so problems sent to support can be identified much faster."
+  "version": "1.1.4",
+  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.1.4/GhostlyMobile-1.1.4.ipa",
+  "sha256": "437acdb29d6ee66c9841a673f8b41bf097a0439bc6b9293ec76625ede6c015b4",
+  "size": 27297334,
+  "release_notes": "Free spoofing on iPhone works. It never did before - Ghostly could not finish checking your free time, so the free tier was impossible to use. If you set up your iPhone before this update, run Introduce Ghostly once more to re-pair it before free time will work. Problem reports now also explain why a free-time check failed."
 }
