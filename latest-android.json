@@ -1,7 +1,7 @@
 {
-  "version": "1.0.5",
-  "apk_url": "https://github.com/Mora140/ghosty-releases/releases/download/android-v1.0.5/Ghostly.apk",
-  "sha256": "ebfdbc34e132c545dd8d10be45b5f35b79ff7fda14844f18b1e55475f77c5538",
-  "size": 45507462,
-  "release_notes": "Free time is now spent only while Ghostly is actually moving your location. Opening the app, looking at the map, or moving the pin before you start no longer uses any of it. Time already spent that way cannot be given back, but the daily twenty minutes now lasts as long as it should."
+  "version": "1.0.6",
+  "apk_url": "https://github.com/Mora140/ghosty-releases/releases/download/android-v1.0.6/Ghostly.apk",
+  "sha256": "a8eafebc9559597ad1df5d7d18a8afd0b114670f1cc8c0798a9b573ef5359956",
+  "size": 45507466,
+  "release_notes": "Fixes a problem introduced in 1.0.5: Ghostly could wrongly say it was still checking your free time even when free time was available, most often just after finishing setup. Spoofing starts normally again."
 }
