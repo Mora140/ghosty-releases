@@ -1,7 +1,7 @@
 {
-  "version": "1.0.6",
-  "apk_url": "https://github.com/Mora140/ghosty-releases/releases/download/android-v1.0.6/Ghostly.apk",
-  "sha256": "a8eafebc9559597ad1df5d7d18a8afd0b114670f1cc8c0798a9b573ef5359956",
-  "size": 45507466,
-  "release_notes": "Fixes a problem introduced in 1.0.5: Ghostly could wrongly say it was still checking your free time even when free time was available, most often just after finishing setup. Spoofing starts normally again."
+  "version": "1.0.7",
+  "apk_url": "https://github.com/Mora140/ghosty-releases/releases/download/android-v1.0.7/Ghostly.apk",
+  "sha256": "26dce24e769d4cd61bd4c7ff5fa1c4c13f0b2c00a12785926fa6dd5990967166",
+  "size": 45523850,
+  "release_notes": "Support reports now work on Android, and explain what actually failed. Error reporting is available and stays off until you turn it on in Settings. A report now carries the real reason a spoof failed and the step it reached, instead of a generic message, and a failure with an unknown cause is no longer reported as a background-service problem it was not. Reports now redact e-mail addresses and file paths as well."
 }
