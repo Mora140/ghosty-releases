@@ -1,7 +1,7 @@
 {
-  "version": "1.1.7",
-  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.1.7/GhostlyMobile-1.1.7.ipa",
-  "sha256": "3eabd93df2b2fc8907a642fcdfc4617b9d1fbc83fbacee917883e99055462d98",
-  "size": 27366913,
-  "release_notes": "When something goes wrong, Ghostly can now tell us what actually happened. A support report carries a trail of what the app was doing before it failed, so problems can be diagnosed without asking you to reproduce them. The connection status no longer reports a check that never ran as one that succeeded, or an untested connection as a failed one. Reports stay off until you turn them on, and everything in them is redacted before sending."
+  "version": "1.1.8",
+  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.1.8/GhostlyMobile-1.1.8.ipa",
+  "sha256": "30a6cccbfc9d01c72731c8adc656c55158e3be5231db1f056f514a7f857dc338",
+  "size": 27367505,
+  "release_notes": "Ghostly no longer stays stuck checking your free time on an iPhone that has not connected yet; free time is now set up on the first connection. Support reports from an iPhone that has never connected now include Ghostly's own log trail, so setup problems can be diagnosed without asking you to reproduce them."
 }
