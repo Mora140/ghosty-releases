@@ -1,7 +1,7 @@
 {
-  "version": "1.1.8",
-  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.1.8/GhostlyMobile-1.1.8.ipa",
-  "sha256": "30a6cccbfc9d01c72731c8adc656c55158e3be5231db1f056f514a7f857dc338",
-  "size": 27367505,
-  "release_notes": "Ghostly no longer stays stuck checking your free time on an iPhone that has not connected yet; free time is now set up on the first connection. Support reports from an iPhone that has never connected now include Ghostly's own log trail, so setup problems can be diagnosed without asking you to reproduce them."
+  "version": "1.1.9",
+  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.1.9/GhostlyMobile-1.1.9.ipa",
+  "sha256": "45566999a247f3833e7fe59784b8c7a5170996e292398c8d949d44ee1e8443fc",
+  "size": 27393087,
+  "release_notes": "Lifetime licence keys now activate on iPhone. A lifetime key was rejected as belonging to a different product, because the app checks your key against a list of products fixed when the app is built, and the lifetime plan did not exist yet when the last version was built. Nothing was wrong with the key itself."
 }
