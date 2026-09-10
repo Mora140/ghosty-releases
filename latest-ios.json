@@ -1,7 +1,7 @@
 {
-  "version": "1.1.9",
-  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.1.9/GhostlyMobile-1.1.9.ipa",
-  "sha256": "45566999a247f3833e7fe59784b8c7a5170996e292398c8d949d44ee1e8443fc",
-  "size": 27393087,
-  "release_notes": "Lifetime licence keys now activate on iPhone. A lifetime key was rejected as belonging to a different product, because the app checks your key against a list of products fixed when the app is built, and the lifetime plan did not exist yet when the last version was built. Nothing was wrong with the key itself."
+  "version": "1.1.10",
+  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.1.10/GhostlyMobile-1.1.10.ipa",
+  "sha256": "d2f7a28dbbfa59332db11fd3d3ae85ffe8c5883eeaf239aebcbb7e4c0bbd91c4",
+  "size": 27423784,
+  "release_notes": "Renewal no longer closes Ghostly over and over when it cannot finish. If a renewal does not extend Ghostly's signing, automatic renewal now pauses so the app keeps opening, and you can renew from Settings, then Signing. Renewing on the iPhone now keeps working after Apple retires Ghostly's app registration, which happens seven days after it was created. Before, every renewal after that point failed until Ghostly was reinstalled from a computer. Ghostly registers it again, which uses one of the ten app registrations Apple allows your Apple ID each week. The mobile data guide appears again when you set a location on mobile data with LocalDevVPN connected. The latest LocalDevVPN update changed how its connection looks, and Ghostly stopped recognising it. On Wi-Fi, when LocalDevVPN is on but not answering, Ghostly now says so and shows how to reconnect it, instead of asking you to install it. Problem reports now say why the local connection did not answer and which app registration renewal looked for."
 }
