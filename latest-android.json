@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7",
-  "apk_url": "https://github.com/Mora140/ghosty-releases/releases/download/android-v1.0.7/Ghostly.apk",
-  "sha256": "26dce24e769d4cd61bd4c7ff5fa1c4c13f0b2c00a12785926fa6dd5990967166",
+  "version": "1.0.8",
+  "apk_url": "https://github.com/Mora140/ghosty-releases/releases/download/android-v1.0.8/Ghostly.apk",
+  "sha256": "a6b2bbc0e6d24a00c65d3f182d7d3267a2f3750c93be41d5bfac5905c0242132",
   "size": 45523850,
-  "release_notes": "Support reports now work on Android, and explain what actually failed. Error reporting is available and stays off until you turn it on in Settings. A report now carries the real reason a spoof failed and the step it reached, instead of a generic message, and a failure with an unknown cause is no longer reported as a background-service problem it was not. Reports now redact e-mail addresses and file paths as well."
+  "release_notes": "Lifetime licence keys now activate on Android. A lifetime key was rejected with \"That key belongs to a different product\" because this app checks your key against a list of products fixed when the app is built, and the lifetime plan did not exist yet when the last version was built. Nothing was wrong with the key itself."
 }
