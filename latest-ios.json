@@ -1,7 +1,7 @@
 {
-  "version": "1.1.11",
-  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.1.11/GhostlyMobile-1.1.11.ipa",
-  "sha256": "656aa85771ec4953e6682f4d881a2f434755a9936d3d32884c90661173c3350c",
-  "size": 27455858,
-  "release_notes": "Renewing and updating Ghostly on your iPhone work again. Apple began refusing sign-in requests from apps that identify themselves the way Ghostly did, so renewals and updates that needed to sign in to Apple failed."
+  "version": "1.2.0",
+  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.2.0/GhostlyMobile-1.2.0.ipa",
+  "sha256": "71d9b53b5d9c50206bfd921029ed10dbed855ed1a2ac2ab8f085edb807b3f520",
+  "size": 27673307,
+  "release_notes": "Routes with several stops and timed stays, train routes, Auto speed that follows each road, smoother movement, an instant Stop, a 3D globe map with places, km/h or mph, and step-by-step help on mobile data that now also covers routes and schedules."
 }
