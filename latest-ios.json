@@ -1,7 +1,7 @@
 {
-  "version": "1.2.0",
-  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.2.0/GhostlyMobile-1.2.0.ipa",
-  "sha256": "71d9b53b5d9c50206bfd921029ed10dbed855ed1a2ac2ab8f085edb807b3f520",
-  "size": 27673307,
-  "release_notes": "Routes with several stops and timed stays, train routes, Auto speed that follows each road, smoother movement, an instant Stop, a 3D globe map with places, km/h or mph, and step-by-step help on mobile data that now also covers routes and schedules."
+  "version": "1.2.2",
+  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.2.2/GhostlyMobile-1.2.2.ipa",
+  "sha256": "442e4945a341a80c2842c6080242103c8e8d897aa2cdb25357a830f03b170357",
+  "size": 27661473,
+  "release_notes": "Ghostly now finds this iPhone's connection on its own, so the connection that never came up on some iPhones - LocalDevVPN connected, signal fine, still unreachable - works. Re-signing no longer starts by itself: Ghostly asks first and you pick the moment. Fixes the crash loop after the two-days-left reminder, and the reminder no longer repeats on every launch."
 }
