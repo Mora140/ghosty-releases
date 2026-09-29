@@ -1,7 +1,7 @@
 {
-  "version": "1.1.0",
-  "apk_url": "https://github.com/Mora140/ghosty-releases/releases/download/android-v1.1.0/Ghostly.apk",
-  "sha256": "04177fb63c8277fec2ae585fdee56202912e25fa8966699810ec5c65330bcd76",
+  "version": "1.1.1",
+  "apk_url": "https://github.com/Mora140/ghosty-releases/releases/download/android-v1.1.1/Ghostly.apk",
+  "sha256": "906f160db217f94df2ac33d2f6b6a3cdb6c864effab06ccd1315deba5fd7b26c",
   "size": 45501465,
-  "release_notes": "Ghostly has a new look: the whole app was redesigned to match the website and the desktop app. Stop now also ends a running schedule. A network problem while confirming free time no longer says your free time is used up, and a location that never went live stops using free time after two minutes. Crash reports are kept for the next launch, Ghostly Pro keeps working if the licence server is briefly unreachable, you can manage your subscription from Settings, and Ghostly asks about error reports only after an error happens."
+  "release_notes": "Your own position shows on the map again, as a dot in a bubble. It had become hard to see, and on the light map it disappeared."
 }
