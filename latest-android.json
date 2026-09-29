@@ -1,7 +1,7 @@
 {
-  "version": "1.0.8",
-  "apk_url": "https://github.com/Mora140/ghosty-releases/releases/download/android-v1.0.8/Ghostly.apk",
-  "sha256": "a6b2bbc0e6d24a00c65d3f182d7d3267a2f3750c93be41d5bfac5905c0242132",
-  "size": 45523850,
-  "release_notes": "Lifetime licence keys now activate on Android. A lifetime key was rejected with \"That key belongs to a different product\" because this app checks your key against a list of products fixed when the app is built, and the lifetime plan did not exist yet when the last version was built. Nothing was wrong with the key itself."
+  "version": "1.1.0",
+  "apk_url": "https://github.com/Mora140/ghosty-releases/releases/download/android-v1.1.0/Ghostly.apk",
+  "sha256": "04177fb63c8277fec2ae585fdee56202912e25fa8966699810ec5c65330bcd76",
+  "size": 45501465,
+  "release_notes": "Ghostly has a new look: the whole app was redesigned to match the website and the desktop app. Stop now also ends a running schedule. A network problem while confirming free time no longer says your free time is used up, and a location that never went live stops using free time after two minutes. Crash reports are kept for the next launch, Ghostly Pro keeps working if the licence server is briefly unreachable, you can manage your subscription from Settings, and Ghostly asks about error reports only after an error happens."
 }
