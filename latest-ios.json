@@ -1,7 +1,7 @@
 {
-  "version": "1.2.4",
-  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.2.4/GhostlyMobile-1.2.4.ipa",
-  "sha256": "c2747dcc2f6d4a8dd4196aafbc72a31c130457f0e436a68006606f8cf83b70f6",
-  "size": 43633260,
-  "release_notes": "iPhone 18 models are now supported: Ghostly installs Apple's developer support files the same way Xcode does on the newest iPhones. Schedules can start at a time you pick instead of the moment you tap Start. Tapping Retry while Ghostly is reconnecting no longer ends the session with \"could not reconnect after 5 minutes\", and the connection that failed its handshake on some iPhones running iOS 27.2 now finds the right port."
+  "version": "1.3.0",
+  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.3.0/GhostlyMobile-1.3.0.ipa",
+  "sha256": "f02cc9bdd2cdd9938364724e89c86cc05f746f5ba2132aa263eeb52193d094f5",
+  "size": 43713278,
+  "release_notes": "Ghostly has a new look: the whole app was redesigned to match the website and the desktop app. Holding a single location no longer shows \"has not confirmed a location update for over 45 seconds\" while everything is working, and a real drop is now noticed within seconds. If you skipped pairing on your computer, setup shows how to finish it there and continues on its own. A short connection problem while renewing free time no longer shows the upgrade screen. You can manage your subscription from Settings, and Ghostly asks about error reports only after an error happens."
 }
