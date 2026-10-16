@@ -1,7 +1,7 @@
 {
-  "version": "1.3.3",
-  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.3.3/GhostlyMobile-1.3.3.ipa",
-  "sha256": "1e3fcbf22aee39d05444ab2d76cde0bde2021ee92647bc4aea8d01c4893291ad",
-  "size": 43781329,
-  "release_notes": "Signing in with your Apple ID on the iPhone, and renewing the app, work again. Apple changed its sign-in check again on 15 October, which made every sign-in fail. If Apple changes this check again, Ghostly can be fixed without an update."
+  "version": "1.3.4",
+  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.3.4/GhostlyMobile-1.3.4.ipa",
+  "sha256": "b18879ed0dd286c25bfa19ebdaa6fc36631a0b56cacb263fd3abd8d8deeae49b",
+  "size": 43779771,
+  "release_notes": "Signing in with your Apple ID and renewing the app no longer fail with an unknown error when Apple's sign-in service is briefly busy. Ghostly now waits and tries again a few times."
 }
