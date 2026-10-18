@@ -1,7 +1,7 @@
 {
-  "version": "1.3.4",
-  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.3.4/GhostlyMobile-1.3.4.ipa",
-  "sha256": "b18879ed0dd286c25bfa19ebdaa6fc36631a0b56cacb263fd3abd8d8deeae49b",
-  "size": 43779771,
-  "release_notes": "Signing in with your Apple ID and renewing the app no longer fail with an unknown error when Apple's sign-in service is briefly busy. Ghostly now waits and tries again a few times."
+  "version": "1.3.5",
+  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.3.5/GhostlyMobile-1.3.5.ipa",
+  "sha256": "e8b7d50360492a4188a1cb9e376a4bd7b9f3c42cae56a742863fede8ae3d402e",
+  "size": 44169306,
+  "release_notes": "Signing in with your Apple ID is more reliable. When a sign-in server is busy, Ghostly moves to another one. Apple IDs that get their code by text message or phone call can now sign in. You can also ask for a new code, use another number, or send the code to your Apple devices. The code field stays above the keyboard and shows the digits you type."
 }
