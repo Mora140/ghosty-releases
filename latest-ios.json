@@ -1,7 +1,7 @@
 {
-  "version": "1.3.6",
-  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.3.6/GhostlyMobile-1.3.6.ipa",
-  "sha256": "0f65eb14a639d8d64939dd9c2f26f9d56232f91e1be95e01886f95a84c37e01a",
-  "size": 44177414,
-  "release_notes": "Signing in with your Apple ID works again. Apple stopped accepting the way Ghostly signed in, so renewing and updating failed after the two-factor code. If Ghostly asks you to sign in again, do it once. Text now fits on screen when your iPhone uses the largest text sizes. Tapping Renew now no longer postpones the renewal."
+  "version": "1.4.0",
+  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.4.0/GhostlyMobile-1.4.0.ipa",
+  "sha256": "547f50b1265e0d58609abdfddd9e11d3896e70ad2548e3220076e70dfd690b54",
+  "size": 44283050,
+  "release_notes": "Renewing is clearer. Ghostly asks near the end of the week and walks you through each step. If a renewal cannot finish, Ghostly tells you why and what to do next. Setup now includes LocalDevVPN and only says Ghostly is ready when it is. On mobile data, Ghostly saves your place and carries on when LocalDevVPN connects. You now get a notification when your free time runs out."
 }
