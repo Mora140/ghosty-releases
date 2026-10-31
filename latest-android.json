@@ -1,7 +1,7 @@
 {
-  "version": "1.1.1",
-  "apk_url": "https://github.com/Mora140/ghosty-releases/releases/download/android-v1.1.1/Ghostly.apk",
-  "sha256": "906f160db217f94df2ac33d2f6b6a3cdb6c864effab06ccd1315deba5fd7b26c",
+  "version": "1.2.0",
+  "apk_url": "https://github.com/Mora140/ghosty-releases/releases/download/android-v1.2.0/Ghostly.apk",
+  "sha256": "a2d2262b6bf7efbcb94811ba7ce41348b922dab4bda8fe2fa0df8d68938f99df",
   "size": 45501465,
-  "release_notes": "Your own position shows on the map again, as a dot in a bubble. It had become hard to see, and on the light map it disappeared."
+  "release_notes": "You now get a notification when your set location stops, and a warning when your free time is nearly gone. Set location again brings back your last point. Setup failures show a clear message, and setup and Ghostly Pro use simpler words."
 }
