@@ -1,7 +1,7 @@
 {
-  "version": "1.4.0",
-  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.4.0/GhostlyMobile-1.4.0.ipa",
-  "sha256": "547f50b1265e0d58609abdfddd9e11d3896e70ad2548e3220076e70dfd690b54",
-  "size": 44283050,
-  "release_notes": "Renewing is clearer. Ghostly asks near the end of the week and walks you through each step. If a renewal cannot finish, Ghostly tells you why and what to do next. Setup now includes LocalDevVPN and only says Ghostly is ready when it is. On mobile data, Ghostly saves your place and carries on when LocalDevVPN connects. You now get a notification when your free time runs out."
+  "version": "1.5.0",
+  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.5.0/GhostlyMobile-1.5.0.ipa",
+  "sha256": "c510dc48617ad24a59b46b42676dbc385085ca9ac5724f4d1e24028ae17f6e48",
+  "size": 44334716,
+  "release_notes": "If your computer already paired this iPhone, setup shows what is left and skips what is done. Ghostly now asks about notifications after you set your first location and shows you what they look like. You can change this any time in Settings."
 }
