@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
-  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.5.0/GhostlyMobile-1.5.0.ipa",
-  "sha256": "c510dc48617ad24a59b46b42676dbc385085ca9ac5724f4d1e24028ae17f6e48",
-  "size": 44334716,
-  "release_notes": "If your computer already paired this iPhone, setup shows what is left and skips what is done. Ghostly now asks about notifications after you set your first location and shows you what they look like. You can change this any time in Settings."
+  "version": "1.5.1",
+  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.5.1/GhostlyMobile-1.5.1.ipa",
+  "sha256": "1cc38c2fde83a4a51400c196a1cf9e65a5ce8db3d212a078e67735de74e0dde6",
+  "size": 44339033,
+  "release_notes": "Renewing Ghostly no longer depends on reaching one particular Apple server, so a network that can't get to it won't stop your renewal anymore."
 }
