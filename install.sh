@@ -4,8 +4,8 @@ set -eu
 
 BASE_URL='https://raw.githubusercontent.com/Mora140/ghosty-releases/phone'
 # Content-addressed, so a cached install.sh never pairs with a different binary.
-BINARY='ghostly-boot-d525dc3f1160'
-SHA256='d525dc3f11600eaf82b96f7ec90495dd0b73f8c9f6db6f570eca6c9b4be21e1c'
+BINARY='ghostly-boot-e90dcdfe1e59'
+SHA256='e90dcdfe1e5917124f50e9ab879c4c66b9ff404b5fd7d29b9bf7db8ac09a8f25'
 
 DIR="$HOME/.ghostly/bin"
 TMP=""
@@ -45,6 +45,9 @@ fi
 chmod 700 "$TMP" && mv -f "$TMP" "$DIR/ghostly-boot" \
   || fail "Ghostly could not save the installer. Make sure the Alpine environment has free space and run the command again."
 TMP=""
+# So `ghostly-boot --report` works by name. Best effort: the binary prints the
+# full path instead when this is not possible.
+{ mkdir -p /usr/local/bin && ln -sf "$DIR/ghostly-boot" /usr/local/bin/ghostly-boot; } 2>/dev/null || true
 
 echo "Starting Ghostly installer..."
 exec "$DIR/ghostly-boot" "$@" < /dev/tty
