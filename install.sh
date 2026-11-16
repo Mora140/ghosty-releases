@@ -4,8 +4,8 @@ set -eu
 
 BASE_URL='https://raw.githubusercontent.com/Mora140/ghosty-releases/phone-next'
 # Content-addressed, so a cached install.sh never pairs with a different binary.
-BINARY='ghostly-boot-4cfafde63b03'
-SHA256='4cfafde63b031549ffa623633f6dd6b0c5d06c62eb8d16df57bf12126bea610a'
+BINARY='ghostly-boot-7785142577c9'
+SHA256='7785142577c9236657f094c66cf49b2f690c6b2bddce21f97e5d07e46d90ed5c'
 
 DIR="$HOME/.ghostly/bin"
 TMP=""
