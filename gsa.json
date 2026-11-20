@@ -1,5 +1,6 @@
 {
   "client_info": "<PC> <Windows;6.2(0,0);9200> <com.apple.AuthKit/1 (com.apple.iTunes/12.12.4.1)>",
+  "mac_client_info": "<Mac15,7> <Mac OS X;27.0;26A5378j> <com.apple.AuthKit/1 (com.apple.akd/1.0)>",
   "anisette_servers": [
     "https://ani.jkcoxson.com",
     "https://win.ani.sidestore.io"
