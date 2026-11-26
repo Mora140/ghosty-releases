@@ -1,7 +1,7 @@
 {
-  "version": "1.5.1",
-  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.5.1/GhostlyMobile-1.5.1.ipa",
-  "sha256": "1cc38c2fde83a4a51400c196a1cf9e65a5ce8db3d212a078e67735de74e0dde6",
-  "size": 44339033,
-  "release_notes": "Renewing Ghostly no longer depends on reaching one particular Apple server, so a network that can't get to it won't stop your renewal anymore."
+  "version": "1.6.0",
+  "ipa_url": "https://github.com/Mora140/ghosty-releases/releases/download/ios-v1.6.0/GhostlyMobile-1.6.0.ipa",
+  "sha256": "73641654a13b20205fb1d3ac0563b704a9d0108d05a42274cccec49f5b3974cb",
+  "size": 44771962,
+  "release_notes": "Travel to a place three ways from the place card: Drive follows the roads, Direct goes in a straight line at a speed you choose, and Fly lets you pick two airports and an aircraft.\nBefore a flight you see the distance and flight time. Then the flight plays out from takeoff to landing, with a timer.\nWalk around: draw a circle on the map and Ghostly walks around inside it. You can pause, hold where you are, or stop.\nThe map has a simpler set of tools.\nRoutes and schedules are easier to read and set up.\nFirst-time setup is shorter. Developer Mode and pairing take one visit to Settings, with help when a setting is hard to find. LocalDevVPN and permissions are still their own steps.\nSigning in with Apple is more reliable. When it fails, Ghostly says what went wrong, such as a wrong password, Apple being busy, too many attempts or no internet, instead of blaming your password.\nUpdating and renewing no longer leave you stuck. Every screen has a next step, you can sign in from the update screen, and Ghostly checks for updates when you open it.\nSettings is grouped so renewal, your plan and the connection are easy to find.\nA slow start no longer hangs on the launch screen.\nFixed movement that crosses the date line slowing to a crawl.\nRenewing no longer picks a certificate Apple has already revoked or that has expired."
 }
