@@ -9,5 +9,12 @@
     "User-Agent": "akd/1.0 CFNetwork/808.1.4",
     "X-Apple-App-Info": "com.apple.gs.xcode.auth",
     "X-Xcode-Version": "14.2 (14C18)"
+  },
+  "signin_order": [
+    "https://mac-ani.jkcoxson.com",
+    "https://anisette.lillq.me"
+  ],
+  "anisette_libraries": {
+    "https://anisette.lillq.me": "mac:lillq"
   }
 }
